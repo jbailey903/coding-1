@@ -1,0 +1,5 @@
+1. string, interger, float, boolean
+2. A repository is a digital space fot storing files and folders 
+3. a computer keyboard is a input device because when you type something is gives a siginal
+4. A variable is a container that stores data
+5. When we want to make up a variable we can put any word as long as it dosent start witha number
