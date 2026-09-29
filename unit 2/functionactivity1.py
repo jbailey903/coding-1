@@ -10,3 +10,7 @@ print(int(val) > 85)
 
 val = input (" Please type in a number")
 print(int (val) + 360)
+
+
+val = input ("Please type in your school")
+print (val == " boys latin")
