@@ -17,4 +17,33 @@ def college():
 
         def ccpapp():
             print(" congrats please the temple app")
-            
+
+
+
+
+
+
+
+
+
+def calculate_add():
+ print (" program has started: please type in 2 numbers to add")
+ num1 = int(input())
+ num2 = int(input())
+ print (num1 + num2)
+ print(" program has ended. ")
+
+choice = input ( " please enter a number")
+
+if choice == '1':
+   calculate_add 
+
+
+def movietickets():
+   print(" please type in your age for the cost")
+   age= int
+
+   elif
+
+   if age =='7'
+   print( price = 8)
