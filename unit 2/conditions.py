@@ -47,3 +47,14 @@ def movietickets():
 
    if age =='7'
    print( price = 8)
+
+
+def movietickets():
+   print ( " please type in your age for the cost")
+   elif
+
+   if age == '8 or 20'
+   print (price = 12)
+   elif age >= 21 and age <=60
+   print(' your ticket is 20')
+elif age >= 61:
