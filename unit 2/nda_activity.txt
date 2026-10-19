@@ -1,0 +1,9 @@
+Me and Cash will make the game flappy bird. We will make a side scrolling game where a chracter flaps up and down to gpo through gaps in moving pipes
+
+The player will have to make it as far as possiable without hiting the pipes, to beat there high score.
+
+The only way to complete flappy bird is by getting a higher score
+
+The game will stop and you have to restart
+
+Splashy fish, city bird & Flappy wings
