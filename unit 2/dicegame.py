@@ -1,4 +1,4 @@
-def dice_game():
+def dicegame():
     score = 0
     while true:
         choice = input("enter 'r' to roll or 'q' to quit ")
