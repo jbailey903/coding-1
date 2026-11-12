@@ -1,3 +1,21 @@
-My game will be about a man fightning off zombies to get to the end. It will contain  a man holding a weapon so he can shoot them. He has to get to the end and not die so he can beat the game
-My game control scheme will conatin using the space bar so he coan jump up and down. To move left and right the player would have to use the right and left arrow keys. To shoot the player would have to use ther E key
-The two properties I would need is a while and for loop I would use those so I could reapeat a cycle such as reloading when the isnt anymore ammo
+My game will be about a man fightning off zombies to get to the end. It will contain  a man holding a weapon so
+ he can shoot them. He has to get to the end and not die so he can beat the game
+
+My game control scheme will conatin using the space bar so he can jump up and down. 
+To move left and right the player would have to use the right and left arrow keys. To shoot the player would have to use ther E key
+
+The two properties I would need is a while and for loop I would use those so I could reapeat a cycle such as 
+reloading when there isnt anymore ammo.
+
+
+
+My games primary mechancis is movement. The moving mechanic will help my character move left and right to get to the enemines.
+Aiming and firing mechanic will help my character aim to  get a good shot at the enemines to shhot.
+ Jumping mechanic will help my character jump up on platforms so he could get closer and have easire range
+
+
+ My games primary goal is too kill all the enemies and dodge obsticals to move on to the next level.
+ The actions that will stop the loop is if the main character dies if the zombies attack him too many times 
+ or if the bombs blow up and he is too close
+
+ The aesthetic of my game is pixel like, drawn animation and heavy metal music 
