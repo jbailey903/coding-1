@@ -1,0 +1,15 @@
+
+something that will make the game challenging is that after each leavel the enemies get stronger.
+
+My game will have a welcome screen it would say new game, settings and weapon upgrades
+
+
+My game objects will be platforms, main character,inventory and weapons
+
+The player should be able to move left,right with arrow keys, 
+up, down with the space bar, use shield preesing one, med kit pressing 2 and shoot using z
+
+The enemies would try to kill you especially if you are seen by them after each leavel the enemies would get stronger and more powerful
+
+The win condition  after you pass each leval it would have a pop up and say " you win" after you will recive upgrades and coins
+but if you lose you have to restart the whole level  
